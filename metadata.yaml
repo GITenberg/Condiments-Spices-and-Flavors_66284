@@ -1,5 +1,8 @@
 _repo: Condiments-Spices-and-Flavors_66284
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66284-h/images/cover.jpg
 creator:
   author:
     agent_name: Green, Mary Elizabeth
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '53706'
     url: http://www.gutenberg.org/2009/agents/53706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66284#Condiments-Spices-and-Flavors
 gutenberg_issued: '2021-09-13'
 identifiers:
   gutenberg: '66284'
